@@ -1,0 +1,18 @@
+createdAt: "2018-04-28T09:47:52.134Z"
+updatedAt: "2018-04-28T09:51:15.908Z"
+type: "SNIPPET_NOTE"
+folder: "fdd1ac6a82f4aa8a5e53"
+title: "Change home directory for user"
+description: "Change home directory for user"
+snippets: [
+  {
+    name: "default.conf"
+    mode: "Plain Text"
+    content: "# usermod -m -d /newhome/username username"
+  }
+]
+tags: [
+  "linux"
+]
+isStarred: false
+isTrashed: false
