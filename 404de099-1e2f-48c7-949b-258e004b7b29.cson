@@ -1,0 +1,21 @@
+createdAt: "2018-08-25T14:04:05.344Z"
+updatedAt: "2018-09-04T09:04:38.410Z"
+type: "MARKDOWN_NOTE"
+folder: "591d0917cd9ed50ec57b"
+title: "References"
+content: '''
+  # References
+  
+  [1], Chuan Wang, Hua Zhang, Liang Yang, Si Liu, Xiaochun Cao (2015) Deep People Counting in Extremely Dense Crowds, in Proceedings of the 23rd ACM international conference on Multimedia MM’15, pp 1299-1302
+  
+  [2] Cong Zhang, Hongsheng Li, Xiaogang Wang, Xiaokang Yang (2015) Cross-scene Crowd Counting via Deep Convolutional Neural Networks, in Computer Vision and Pattern Recognition CVPR 2015
+  
+  [3] Lokesh Boominathan, Srinivas S S Kruthiventi, R. Venkatesh Babu (2016)CrowdNet: A Deep Convolutional Network for Dense Crowd Counting, n Proceedings of the 23rd ACM international conference on Multimedia MM’16
+  
+  [4] Mark Marsden, Kevin McGuinness, Suzanne Little, Noel E. O’Connor (2017)ResnetCrowd: A Residual Deep Learning Architecture for Crowd Counting, Violent Behaviour Detection and Crowd Density Level Classification, arXiv preprint arXiv:1705.10698
+'''
+tags: [
+  "references"
+]
+isStarred: false
+isTrashed: false

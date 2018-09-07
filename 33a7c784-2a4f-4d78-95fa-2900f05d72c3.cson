@@ -1,0 +1,27 @@
+createdAt: "2018-09-07T08:28:12.027Z"
+updatedAt: "2018-09-07T08:29:34.301Z"
+type: "MARKDOWN_NOTE"
+folder: "24d0042e13ac9c349306"
+title: "ADPCM"
+content: '''
+  # ADPCM
+  ADPCM (adaptive differential pulse-code modulation) is a technique for converting sound or analog information to binary information (a string of 0's and 1's) by taking frequent samples of the sound and expressing the value of the sampled sound modulation in binary terms. ADPCM is used to send sound on fiber-optic long-distance lines as well as to store sound along with text, images, and code on a CD-ROM.
+  
+  ## Adaptive differential pulse code modulation (ADPCM) is a method used to convert analog signals to binary signals. The technique converts the analog signals by taking frequent samples of the sound and representing the value of the sampled modulation in binary form.
+  
+  The technique is a variation of the digitized method known as pulse code modulation.
+  
+  ## =========================
+  Adaptive differential pulse code modulation is a very efficient digital coding of waveforms that was developed by Bell Labs in the 1970s for the purpose of voice coding. ADPCM was also used in the early 1990s by Interactive Multimedia Association (IMA) for the development of legacy audio codec - also referred to as ADPCM DVI, IMA ADPCM or DVI4. Some ADPCM methods are also used in VoIP communications. 
+  
+  The concept of ADPCM is to use the past behavior of a signal to forecast it in the future. The resulting signal will represent the error of the prediction, which has no significance. Therefore, the signal must be decoded to rebuild a more meaningful original waveform. 
+  
+  The ADPCM technique is employed to send sound signals through fiber-optic long-distance lines. This is useful especially for organizations that set up digital lines between remote sites to broadcast both voice and data. The voice signals are digitized before they are broadcasted.
+  
+  In the telecommunication field, the ADPCM technique is used mainly in speech compression because the method makes it possible to reduce bit flow without compromising quality. The ADPCM method can be applied to all wave forms, high-quality audio, images and other modern data.
+'''
+tags: [
+  "multimedia"
+]
+isStarred: false
+isTrashed: false
